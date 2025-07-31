@@ -73,7 +73,7 @@ and contributing to open-source projects.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github-profile-trophy.vercel.app/?username=muskankumarimk&theme=discord&no-frame=true&no-bg=false&margin-w=4">
     <img src="https://github-profile-trophy.vercel.app/?username=muskankumarimk&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
   </a>
 </p>
