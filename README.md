@@ -51,6 +51,8 @@ and contributing to open-source projects.
 <p align="left">
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40"/>
 </p>
 
 
